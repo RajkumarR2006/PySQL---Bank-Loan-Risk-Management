@@ -1,0 +1,13 @@
+# Raw Datasets
+*.csv
+
+# Trained Machine Learning Models
+*.pkl
+
+# MySQL Workbench Binaries
+*.mwb
+*.mwb.bak
+
+# Python Cache
+__pycache__/
+*.pyc
